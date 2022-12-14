@@ -1,0 +1,35 @@
+class Hotel
+{
+void adrs()
+{
+ System.out.println("iddly");
+ }
+ void suma()
+	{
+	 System.out.println("bonda" )
+	}
+ }
+ class Zomato
+ {
+ public static void main(String[] args)
+ {
+ Hotel s1=new Hotel();
+
+ Cust1.amit(s1);
+ Cust2.pooja(s1);
+ }
+ }
+ class Cust1
+ {
+ static void amit(Hotel s2)
+ {
+s2.adrs();
+ }
+ }
+ class Cust2
+ {
+ static void pooja(Hotel s3)
+ {
+s3.suma();
+ }
+ }
